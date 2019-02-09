@@ -1,0 +1,16 @@
+* {
+	transition: 0.3s;
+	-moz-transition: 0.3s;	/* Firefox 4 */
+	-webkit-transition: 0.3s;	/* Safari 和 Chrome */
+	-o-transition: 0.3s;
+}
+a, .sweet-alert {
+	font-family: "微软雅黑";
+}
+.main {
+	font-family: "微软雅黑";
+}
+footer {
+	margin-top: 80px;
+	margin-bottom: 5px;
+}

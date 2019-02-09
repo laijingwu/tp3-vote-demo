@@ -1,0 +1,20 @@
+* {
+	transition: 0.3s;
+	-moz-transition: 0.3s;	/* Firefox 4 */
+	-webkit-transition: 0.3s;	/* Safari 和 Chrome */
+	-o-transition: 0.3s;
+}
+a {
+	font-family: "微软雅黑";
+}
+.main {
+	font-family: "微软雅黑";
+	margin-top: 10%;
+}
+#login-form {
+	margin: 60px 30px;
+}
+footer {
+	margin-top: 60px;
+	margin-bottom: 5px;
+}
